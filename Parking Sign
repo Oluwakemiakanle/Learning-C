@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) {
+
+   printf("  NO PARKING\n");
+   printf("5:00 - 9:00 p.m.\n");
+
+   return 0;
+}
